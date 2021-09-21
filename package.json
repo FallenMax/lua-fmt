@@ -69,7 +69,7 @@
     "ts-loader": "^2.0.1",
     "tslint": "^4.5.1",
     "typescript": "^4.4.3",
-    "uglify-js": "latest",
+    "uglify-js": "^3.14.2",
     "uglifyjs-webpack-plugin": "^0.3.0",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.1"
@@ -81,6 +81,6 @@
     "commander": "^2.9.0",
     "diff": "^3.3.0",
     "get-stdin": "^5.0.1",
-    "luaparse": "latest"
+    "luaparse": "^0.3.1"
   }
 }
