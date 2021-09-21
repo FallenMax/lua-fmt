@@ -1,6 +1,6 @@
 {
   "name": "lua-fmt-fork",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "description": "Format Lua code",
   "author": "trixnz",
   "homepage": "https://github.com/trixnz/lua-fmt",
