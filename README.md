@@ -1,3 +1,7 @@
+This repo is forked from https://github.com/trixnz/lua-fmt to fix dependency issue.
+
+---
+
 [![Build Status](https://travis-ci.org/trixnz/lua-fmt.svg?branch=master)](https://travis-ci.org/trixnz/lua-fmt) [![NPM Package](https://img.shields.io/npm/v/lua-fmt.svg)](https://www.npmjs.com/package/lua-fmt)
 
 # Code Formatter for Lua
